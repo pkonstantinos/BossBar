@@ -1,0 +1,34 @@
+#   udvozlet, ha a bossbar szinet szeretned beallitani
+#   ezeket a szineket tudod hasznalni:
+#     kék
+#     fehér
+#     zöld
+#     pink
+#     lila
+#     piros
+#     sárga
+
+
+
+#   Ha szinezni szeretned a szoveged, hasznalhatsz HEX kodot,
+#   de a szinkodok is(pl. &4) mukodnek
+
+
+
+
+idozito: 15
+webshop:
+  szoveg: "#FF927AWebshop: &ebolt.allayrpg.hu"
+  szin: "kék"
+discord:
+  szoveg: "&9Discord: &blink"
+  szin: "kék"
+szerverek:
+  szoveg: "&8Szerverek: &aOneBlock, &1RPG, &6Kingdoms, &bSkypvp, &2Survival"
+  szin: "kék"
+eventek:
+  szoveg: "&cEventek: &4RPG Kevent. Dupla EmerXp szerezhet(Event ideje)"
+  szin: "kék"
+vasarlasok:
+  szoveg: "&5V&dSapkLTBEffektek. Vmost!"
+  szin: "kék"

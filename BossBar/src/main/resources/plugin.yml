@@ -1,0 +1,6 @@
+name: BossBar
+version: '${project.version}'
+main: bossbar.bossbar.BossBar
+api-version: 1.18
+authors: [ Koszta ]
+description: BossBar plugin szerverekre
